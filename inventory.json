@@ -1,0 +1,272 @@
+{
+  "dealership": "Maple Ridge Chevrolet Buick Gmc",
+  "generated_at": "2026-09-25T15:10:23",
+  "vehicle_count": 24,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Used2024 Buick Encore GX",
+      "vin": "KL4AMESL7RB114604",
+      "stock": "EN11460",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/93922caa7aaf.html",
+      "source_url": "https://www.mapleridgegm.com/view/used-2024-buick-encore-gx-1315493/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2024-buick-encore-gx-1315493/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:02:46",
+      "odometer_km": 20124,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024 Buick Encore GX",
+      "vin": "KL4AMESL3RB114308",
+      "stock": "EN11430",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/3d6ead23cfa6.html",
+      "source_url": "https://www.mapleridgegm.com/view/used-2024-buick-encore-gx-1315499/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2024-buick-encore-gx-1315499/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:02:55",
+      "odometer_km": 27594,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 Chevrolet Trax",
+      "vin": "KL77LHE28SC132520",
+      "stock": "TX13252",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/a11ba7bb2807.html",
+      "source_url": "https://www.mapleridgegm.com/view/used-2025-chevrolet-trax-1315553/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2025-chevrolet-trax-1315553/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:03:02",
+      "odometer_km": 30970,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 Honda Pilot",
+      "vin": "5FNYG1H79SB503438",
+      "stock": "AC01892",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/2734fe4d1e44.html",
+      "source_url": "https://www.mapleridgegm.com/view/used-2025-honda-pilot-1621819/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2025-honda-pilot-1621819/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:03:12",
+      "odometer_km": 50273,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 Hyundai Elantra",
+      "vin": "KMHLN4DG0SU987381",
+      "stock": "BT10091",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/cae6579c2a31.html",
+      "source_url": "https://www.mapleridgegm.com/view/used-2025-hyundai-elantra-1779110/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2025-hyundai-elantra-1779110/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:03:20",
+      "odometer_km": 21510,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 Ram 1500",
+      "vin": "1C6SRFLP9SN623964",
+      "stock": "GC36909",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/42a88584670f.html",
+      "source_url": "https://www.mapleridgegm.com/view/used-2025-ram-1500-1902408/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2025-ram-1500-1902408/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:03:27",
+      "odometer_km": 47646,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 Ram 3500",
+      "vin": "3C63R3EL1SG571039",
+      "stock": "SE40605",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/9a20c0580e61.html",
+      "source_url": "https://www.mapleridgegm.com/view/used-2025-ram-3500-1694925/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2025-ram-3500-1694925/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:03:35",
+      "odometer_km": 1967,
+      "condition": "used"
+    },
+    {
+      "name": "Used2026 Chevrolet Blazer EV",
+      "vin": "3GNKDERLXTS118598",
+      "stock": "CL23091",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/451f96571cdc.html",
+      "source_url": "https://www.mapleridgegm.com/view/used-2026-chevrolet-blazer-ev-1792198/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2026-chevrolet-blazer-ev-1792198/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:03:43",
+      "odometer_km": 7488,
+      "condition": "used"
+    },
+    {
+      "name": "Used2026 Chevrolet Corvette",
+      "vin": "1G1YA2D40T5103198",
+      "stock": "CV10319",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/3136827c4c13.html",
+      "source_url": "https://www.mapleridgegm.com/view/used-2026-chevrolet-corvette-1905519/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2026-chevrolet-corvette-1905519/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:03:51",
+      "odometer_km": 3762,
+      "condition": "used"
+    },
+    {
+      "name": "Used2026 Chevrolet Equinox EV",
+      "vin": "3GN7DSRR6TS144348",
+      "stock": "UT14434",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/eefaffa1a835.html",
+      "source_url": "https://www.mapleridgegm.com/view/used-2026-chevrolet-equinox-ev-1839790/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2026-chevrolet-equinox-ev-1839790/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:04:00",
+      "condition": "used"
+    },
+    {
+      "name": "Used2026 GMC Sierra 1500",
+      "vin": "3GTUUFE83TG107261",
+      "stock": "GC35119",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/bfbd7a2b7a28.html",
+      "source_url": "https://www.mapleridgegm.com/view/used-2026-gmc-sierra-1500-1906667/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2026-gmc-sierra-1500-1906667/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:04:09",
+      "odometer_km": 14799,
+      "condition": "used"
+    },
+    {
+      "name": "Used2026 Honda Ridgeline",
+      "vin": "5FPYK3F11TB500129",
+      "stock": "UT50012",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/b8723f475be8.html",
+      "source_url": "https://www.mapleridgegm.com/view/used-2026-honda-ridgeline-1796821/",
+      "dealer_url": "https://www.mapleridgegm.com/view/used-2026-honda-ridgeline-1796821/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:04:16",
+      "odometer_km": 2216,
+      "condition": "used"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV7VF102516",
+      "stock": "BT10251",
+      "color": "Summit White",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/03d5657d1cae.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1667396/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1667396/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:08:26",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FZ6EV5VF105895",
+      "stock": "BT10589",
+      "color": "Sterling Grey Metallic",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/ab1d76cdca22.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1675449/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1675449/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:08:37",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV2VF107171",
+      "stock": "BT10717",
+      "color": "Sterling Grey Metallic",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/09848c8a64e9.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1690849/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1690849/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:08:48",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FZ6EV0VF103410",
+      "stock": "BT10341",
+      "color": "Sterling Grey Metallic",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/b132ada0972d.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1701169/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1701169/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:08:57",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV6VF108498",
+      "stock": "BT10849",
+      "color": "Sterling Grey Metallic",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/5d08a90594c6.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1708130/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1708130/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:09:07",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV7VF109627",
+      "stock": "BT10962",
+      "color": "Sterling Grey Metallic",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/8367bce02e86.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1729788/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1729788/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:09:15",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV4VF109195",
+      "stock": "BT10919",
+      "color": "Sterling Grey Metallic",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/95a021992550.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1729789/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1729789/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:09:24",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV2VF112130",
+      "stock": "BT11213",
+      "color": "Mosaic Black Metallic",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/06b3ab0c3779.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1762042/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1762042/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:09:34",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV2VF113729",
+      "stock": "BT11372",
+      "color": "Mosaic Black Metallic",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/d7ab66577c1d.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1779554/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1779554/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:09:43",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV5VF114003",
+      "stock": "BT11400",
+      "color": "Mosaic Black Metallic",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/0a7b721cd3f9.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1783347/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1783347/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:09:53",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FZ6EV6VF114198",
+      "stock": "BT11419",
+      "color": "Summit White",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/f6e112530955.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1789217/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1789217/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:10:04",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV0VF114782",
+      "stock": "BT11478",
+      "color": "Mosaic Black Metallic",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/37199ab2002a.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1798549/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1798549/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:10:11",
+      "condition": "new"
+    }
+  ]
+}
