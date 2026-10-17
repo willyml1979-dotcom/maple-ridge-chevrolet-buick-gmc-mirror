@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Chevrolet Buick Gmc",
-  "generated_at": "2026-10-17T10:07:51",
-  "vehicle_count": 39,
+  "generated_at": "2026-10-17T10:11:10",
+  "vehicle_count": 41,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -168,7 +168,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/b369c55222b4.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2026-buick-enclave-1523832/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2026-buick-enclave-1523832/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:42:36",
+      "last_verified": "2026-10-17T10:08:47",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -181,7 +181,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/0da346dacf17.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2026-buick-envision-1563882/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2026-buick-envision-1563882/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:42:45",
+      "last_verified": "2026-10-17T10:08:55",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -194,7 +194,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/6ffb26e6c428.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2026-buick-envision-1602572/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2026-buick-envision-1602572/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:42:54",
+      "last_verified": "2026-10-17T10:09:07",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -207,7 +207,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/a85d671f207c.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2026-chevrolet-silverado-1500-1456726/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2026-chevrolet-silverado-1500-1456726/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:43:03",
+      "last_verified": "2026-10-17T10:09:17",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -220,7 +220,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/46748a207ede.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2026-chevrolet-silverado-3500hd-1552122/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2026-chevrolet-silverado-3500hd-1552122/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:43:12",
+      "last_verified": "2026-10-17T10:09:28",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -233,7 +233,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/90d913b12730.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2026-gmc-acadia-1527621/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2026-gmc-acadia-1527621/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:43:23",
+      "last_verified": "2026-10-17T10:09:38",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -246,7 +246,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/9596b813845d.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2026-gmc-canyon-1607818/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2026-gmc-canyon-1607818/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:43:32",
+      "last_verified": "2026-10-17T10:09:48",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -259,7 +259,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/09063628aa05.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2026-gmc-sierra-1500-1501444/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2026-gmc-sierra-1500-1501444/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:43:41",
+      "last_verified": "2026-10-17T10:09:55",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -272,7 +272,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/f4fca3d9f903.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2026-gmc-sierra-3500hd-1521195/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2026-gmc-sierra-3500hd-1521195/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:43:52",
+      "last_verified": "2026-10-17T10:10:05",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -285,7 +285,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/319da101ceb3.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2026-gmc-sierra-3500hd-1533533/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2026-gmc-sierra-3500hd-1533533/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:44:01",
+      "last_verified": "2026-10-17T10:10:14",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -298,7 +298,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/535eb462cb48.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2026-gmc-sierra-3500hd-1560865/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2026-gmc-sierra-3500hd-1560865/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:44:11",
+      "last_verified": "2026-10-17T10:10:26",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -311,7 +311,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/f653b4250d81.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2026-gmc-sierra-3500hd-1560867/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2026-gmc-sierra-3500hd-1560867/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:44:21",
+      "last_verified": "2026-10-17T10:10:35",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -483,7 +483,33 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/41c3ba05c2bb.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1827335/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1827335/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:44:28",
+      "last_verified": "2026-10-17T10:10:46",
+      "condition": "new",
+      "city": "Pitt Meadows",
+      "province": "BC"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV7VF117078",
+      "stock": "BT11707",
+      "color": "Summit White",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/001865e338e3.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1836984/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1836984/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T10:08:26",
+      "condition": "new",
+      "city": "Pitt Meadows",
+      "province": "BC"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV5VF118200",
+      "stock": "BT11820",
+      "color": "Sterling Grey Metallic",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/6e6f7762d828.html",
+      "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1850518/",
+      "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-bolt-1850518/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T10:08:37",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -496,7 +522,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/1f6d1f35ac46.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-corvette-1821300/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-corvette-1821300/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:44:38",
+      "last_verified": "2026-10-17T10:10:54",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
@@ -509,7 +535,7 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/c36b6805e44d.html",
       "source_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-equinox-1827331/",
       "dealer_url": "https://www.mapleridgegm.com/view/new-2027-chevrolet-equinox-1827331/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T18:44:47",
+      "last_verified": "2026-10-17T10:11:06",
       "condition": "new",
       "city": "Pitt Meadows",
       "province": "BC"
