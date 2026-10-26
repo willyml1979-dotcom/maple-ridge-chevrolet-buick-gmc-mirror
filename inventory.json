@@ -1,6 +1,6 @@
 {
   "dealership": "Maple Ridge Chevrolet Buick Gmc",
-  "generated_at": "2026-10-25T21:48:08",
+  "generated_at": "2026-10-25T21:54:29",
   "vehicle_count": 44,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -144,7 +144,7 @@
       "condition": "new"
     },
     {
-      "name": "New2026 GMC Sierra 3500HD",
+      "name": "Used2026 GMC Sierra 3500HD",
       "vin": "1GT4UYEY6TF143944",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/319da101ceb3.html",
       "condition": "new"
