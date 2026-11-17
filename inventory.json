@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Chevrolet Buick Gmc",
-  "generated_at": "2026-11-16T18:54:58",
-  "vehicle_count": 45,
+  "generated_at": "2026-11-16T18:58:58",
+  "vehicle_count": 48,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -214,10 +214,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New2027 Chevrolet Bolt",
-      "vin": "1G1FY6EV4VF109195",
+      "name": "Search",
+      "vin": "1G1FY6EV6VF108498",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/95a021992550.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 44117.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2027 Chevrolet Bolt",
@@ -258,10 +260,12 @@
       "condition": "new"
     },
     {
-      "name": "New2027 Chevrolet Bolt",
-      "vin": "1G1FY6EV7VF117078",
+      "name": "Search",
+      "vin": "1G1FY6EV6VF108498",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/001865e338e3.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 44117.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2027 Chevrolet Bolt",
@@ -285,6 +289,24 @@
       "name": "New2027 Chevrolet Equinox",
       "vin": "3GNAXPEG8VL127059",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/ee4a98639549.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Equinox",
+      "vin": "3GNAXPEG7VL150932",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/3361d96ea75e.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Equinox",
+      "vin": "3GNAXPEG4VL161130",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/9e3aea8d43cd.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Traverse",
+      "vin": "1GNEVJKS2VJ119401",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/079d854d9225.html",
       "condition": "new"
     }
   ]
