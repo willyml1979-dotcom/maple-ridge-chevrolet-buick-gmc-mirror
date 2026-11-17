@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Chevrolet Buick Gmc",
-  "generated_at": "2026-10-25T21:54:29",
-  "vehicle_count": 44,
+  "generated_at": "2026-11-16T18:54:58",
+  "vehicle_count": 45,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -24,6 +24,12 @@
       "condition": "used"
     },
     {
+      "name": "Used2025 Chevrolet Equinox",
+      "vin": "3GNAXPEG1SL291491",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/e9e005d76954.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2025 Chevrolet Trax",
       "vin": "KL77LJE21SC028930",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/1ad729226a61.html",
@@ -42,12 +48,6 @@
       "condition": "used"
     },
     {
-      "name": "Used2025 Ram 3500",
-      "vin": "3C63R3EL1SG571039",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/9a20c0580e61.html",
-      "condition": "used"
-    },
-    {
       "name": "Used2026 Chevrolet Blazer EV",
       "vin": "3GNKDERLXTS118598",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/451f96571cdc.html",
@@ -60,9 +60,9 @@
       "condition": "used"
     },
     {
-      "name": "Used2026 Chevrolet Equinox EV",
-      "vin": "3GN7DSRR6TS144348",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/eefaffa1a835.html",
+      "name": "Used2026 GMC Canyon",
+      "vin": "1GTP2FEK8T1179506",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/72cb31edbec6.html",
       "condition": "used"
     },
     {
@@ -72,15 +72,21 @@
       "condition": "used"
     },
     {
-      "name": "Used2026 GMC Sierra 3500HD",
-      "vin": "1GT4UYEY6TF143944",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/025d45ebd939.html",
+      "name": "Used2026 GMC Sierra 1500",
+      "vin": "3GTUUEE84TG189902",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/d48b7bfb11e5.html",
       "condition": "used"
     },
     {
-      "name": "Used2026 Honda Ridgeline",
-      "vin": "5FPYK3F11TB500129",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/b8723f475be8.html",
+      "name": "Used2026 Mercedes-Benz GLC",
+      "vin": "W1NKJ4HB5TF437490",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/b8c05debb1d0.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2026 Toyota Land Cruiser",
+      "vin": "JTEABFAJ3TK053921",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/1b97487b694d.html",
       "condition": "used"
     },
     {
