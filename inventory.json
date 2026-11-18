@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Chevrolet Buick Gmc",
-  "generated_at": "2026-11-17T19:02:41",
-  "vehicle_count": 49,
+  "generated_at": "2026-11-17T19:12:26",
+  "vehicle_count": 61,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -102,19 +102,23 @@
       "condition": "new"
     },
     {
-      "name": "New2026 Buick Envision",
+      "name": "Search",
       "vin": "LRBFZPR48TD009667",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/0da346dacf17.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 55296.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "New2026 Buick Envision",
-      "vin": "LRBFZPR48TD015114",
+      "name": "Search",
+      "vin": "LRBFZPR48TD009667",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/6ffb26e6c428.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 55296.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "New2026 Chevrolet Silverado 1500",
+      "name": "Search",
       "vin": "1GCUKJED6TZ129227",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/a85d671f207c.html",
       "condition": "new"
@@ -126,50 +130,54 @@
       "condition": "new"
     },
     {
-      "name": "New2026 Chevrolet Silverado 3500HD",
-      "vin": "2GC4KUEY8T1135947",
+      "name": "Search",
+      "vin": "2GC4KTEY9T1181877",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/46748a207ede.html",
       "condition": "new"
     },
     {
-      "name": "New2026 GMC Acadia",
+      "name": "Search",
       "vin": "1GKENNKSXTJ168962",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/90d913b12730.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 63032.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "New2026 GMC Canyon",
+      "name": "Search",
       "vin": "1GTP2DEK2T1177531",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/9596b813845d.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 59832.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "New2026 GMC Sierra 1500",
+      "name": "Search",
       "vin": "3GTUUGED8TG115486",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/09063628aa05.html",
       "condition": "new"
     },
     {
-      "name": "New2026 GMC Sierra 3500HD",
+      "name": "Search",
       "vin": "1GT4UWEY6TF149831",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/f4fca3d9f903.html",
       "condition": "new"
     },
     {
-      "name": "Used2026 GMC Sierra 3500HD",
-      "vin": "1GT4UYEY6TF143944",
+      "name": "Search",
+      "vin": "1GT4UWEY6TF149831",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/319da101ceb3.html",
       "condition": "new"
     },
     {
-      "name": "New2026 GMC Sierra 3500HD",
-      "vin": "1GT4UWEY1TF148781",
+      "name": "Search",
+      "vin": "1GT4UWEY6TF149831",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/535eb462cb48.html",
       "condition": "new"
     },
     {
-      "name": "New2026 GMC Sierra 3500HD",
-      "vin": "1GT4UWEY3TF148913",
+      "name": "Search",
+      "vin": "1GT4UWEY6TF149831",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/f653b4250d81.html",
       "condition": "new"
     },
@@ -260,10 +268,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New2027 Chevrolet Bolt",
-      "vin": "1G1FY6EV1VF116881",
+      "name": "Search",
+      "vin": "1G1FY6EV6VF108498",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/41c3ba05c2bb.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 44117.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Search",
@@ -280,16 +290,62 @@
       "condition": "new"
     },
     {
-      "name": "New2027 Chevrolet Corvette",
-      "vin": "1G1YE2D31V5600159",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/1f6d1f35ac46.html",
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV6VF108498",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/b205aa5071e2.html",
       "condition": "new"
     },
     {
-      "name": "New2027 Chevrolet Equinox",
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV2VF112130",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/31723b2ffbab.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV2VF113729",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/bfa6b0a1a9c3.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV5VF114003",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/5a4ad0c39760.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FZ6EV6VF114198",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/7e1da375324d.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt",
+      "vin": "1G1FY6EV5VF118200",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/8c3848a938f5.html",
+      "condition": "new"
+    },
+    {
+      "name": "Search",
+      "vin": "1G1YE2D31V5600159",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/1f6d1f35ac46.html",
+      "condition": "new",
+      "price": 180912.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2027 Chevrolet Corvette",
+      "vin": "1G1YE2D31V5600159",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/8c14f25465bb.html",
+      "condition": "new"
+    },
+    {
+      "name": "Search",
       "vin": "3GNAXPEGXVL127502",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/c36b6805e44d.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 40407.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2027 Chevrolet Equinox",
@@ -310,9 +366,39 @@
       "condition": "new"
     },
     {
+      "name": "New2027 Chevrolet Equinox",
+      "vin": "3GNAXPEGXVL127502",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/660a65320d93.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Equinox",
+      "vin": "3GNAXPEG8VL127059",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/743942494dae.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Equinox",
+      "vin": "3GNAXPEG7VL150932",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/02f8822d181f.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Equinox",
+      "vin": "3GNAXPEG4VL161130",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/32f9ef6c5a8c.html",
+      "condition": "new"
+    },
+    {
       "name": "New2027 Chevrolet Traverse",
       "vin": "1GNEVJKS2VJ119401",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/079d854d9225.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Traverse",
+      "vin": "1GNEVJKS2VJ119401",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/new/34447e75df09.html",
       "condition": "new"
     }
   ]
