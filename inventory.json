@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Chevrolet Buick Gmc",
-  "generated_at": "2026-11-17T19:12:26",
-  "vehicle_count": 61,
+  "generated_at": "2026-11-18T19:06:48",
+  "vehicle_count": 58,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -32,19 +32,7 @@
     {
       "name": "Used2025 Ram 1500",
       "vin": "1C6SRFLP9SN623964",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/42a88584670f.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2025 Ram 1500",
-      "vin": "1C6SRFLP9SN623964",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/6502532358b8.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2026 Chevrolet Blazer EV",
-      "vin": "3GNKDERLXTS118598",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/451f96571cdc.html",
       "condition": "used"
     },
     {
@@ -63,12 +51,6 @@
       "name": "Used2026 GMC Canyon",
       "vin": "1GTP2FEK8T1179506",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/cbfd5a2242c2.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2026 GMC Sierra 1500",
-      "vin": "3GTUUFE83TG107261",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/bfbd7a2b7a28.html",
       "condition": "used"
     },
     {

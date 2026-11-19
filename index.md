@@ -1,6 +1,6 @@
 # Maple Ridge Chevrolet Buick GMC
 
- dealership in Pitt Meadows. AI-readable inventory mirror, about 61 vehicles.
+ dealership in Pitt Meadows. AI-readable inventory mirror, about 58 vehicles.
 
 - Official website: https://www.mapleridgegm.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/maple-ridge-chevrolet-buick-gmc-mirror/used/
